@@ -1,0 +1,107 @@
+// Mock data for courses
+export const coursesData = [
+  {
+    id: 1,
+    title: "Introduction to Web Development",
+    instructor: "Dr. Sarah Johnson",
+    duration: "8 weeks",
+    level: "Beginner",
+    price: 49.99,
+    rating: 4.5,
+    students: 1250,
+    image: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=400",
+    description: "Learn the fundamentals of HTML, CSS, and JavaScript to build modern websites.",
+    category: "Web Development"
+  },
+  {
+    id: 2,
+    title: "React.js Masterclass",
+    instructor: "Prof. Michael Chen",
+    duration: "10 weeks",
+    level: "Intermediate",
+    price: 79.99,
+    rating: 4.8,
+    students: 890,
+    image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400",
+    description: "Master React.js and build powerful single-page applications with modern best practices.",
+    category: "Web Development"
+  },
+  {
+    id: 3,
+    title: "Python for Data Science",
+    instructor: "Dr. Emily Watson",
+    duration: "12 weeks",
+    level: "Intermediate",
+    price: 89.99,
+    rating: 4.7,
+    students: 2100,
+    image: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=400",
+    description: "Dive into data analysis, visualization, and machine learning with Python.",
+    category: "Data Science"
+  },
+  {
+    id: 4,
+    title: "Mobile App Development with Flutter",
+    instructor: "Alex Rodriguez",
+    duration: "10 weeks",
+    level: "Intermediate",
+    price: 69.99,
+    rating: 4.6,
+    students: 750,
+    image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400",
+    description: "Build beautiful cross-platform mobile applications using Flutter and Dart.",
+    category: "Mobile Development"
+  },
+  {
+    id: 5,
+    title: "Cloud Computing with AWS",
+    instructor: "James Wilson",
+    duration: "8 weeks",
+    level: "Advanced",
+    price: 99.99,
+    rating: 4.9,
+    students: 560,
+    image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400",
+    description: "Learn to deploy and manage applications on Amazon Web Services.",
+    category: "Cloud Computing"
+  },
+  {
+    id: 6,
+    title: "UI/UX Design Fundamentals",
+    instructor: "Lisa Park",
+    duration: "6 weeks",
+    level: "Beginner",
+    price: 59.99,
+    rating: 4.4,
+    students: 1800,
+    image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400",
+    description: "Master the principles of user interface and user experience design.",
+    category: "Design"
+  },
+  {
+    id: 7,
+    title: "Database Management with SQL",
+    instructor: "Dr. Robert Brown",
+    duration: "6 weeks",
+    level: "Beginner",
+    price: 44.99,
+    rating: 4.3,
+    students: 980,
+    image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=400",
+    description: "Learn SQL and database design for efficient data management.",
+    category: "Database"
+  },
+  {
+    id: 8,
+    title: "Machine Learning Fundamentals",
+    instructor: "Dr. Amanda Lee",
+    duration: "14 weeks",
+    level: "Advanced",
+    price: 129.99,
+    rating: 4.8,
+    students: 420,
+    image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400",
+    description: "Explore machine learning algorithms and build intelligent systems.",
+    category: "Data Science"
+  }
+];
