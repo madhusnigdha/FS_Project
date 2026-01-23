@@ -1,16 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![WhatsApp Image 2026-01-23 at 4 00 33 PM](https://github.com/user-attachments/assets/c186e5c7-42c9-4e19-bc4d-9d03744540af)
+![WhatsApp Image 2026-01-23 at 4 00 33 PM](https://github.com/user-attachments/assets/b5874a81-e53f-4a28-82db-c824edee51f5)
+![WhatsApp Image 2026-01-23 at 4 00 54 PM](https://github.com/user-attachments/assets/683b7995-a21e-4cdf-845a-ebb4b8614d0c)
+![WhatsApp Image 2026-01-23 at 4 01 15 PM](https://github.com/user-attachments/assets/3acd7a75-96ee-4bf0-b1e4-8b51734647ec)
+![WhatsApp Image 2026-01-23 at 4 01 41 PM](https://github.com/user-attachments/assets/693e254f-ceb1-45c0-a94f-7a17eac4bc88)
+![WhatsApp Image 2026-01-23 at 4 02 05 PM](https://github.com/user-attachments/assets/1cf7992a-b626-4ce2-a064-ad1be3e10f02)
+![WhatsApp Image 2026-01-23 at 4 02 22 PM](https://github.com/user-attachments/assets/a817c6f9-d5a4-4182-9679-cb65c800e7e9)
